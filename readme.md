@@ -30,7 +30,7 @@
 
 5. **Change PostgreSQL URL:**
 
-    Update the PostgreSQL URL in `src/database/database.py` to match your database configuration.
+    Update the DATABASE URL in `fast_api_crud/database/database.py` to match your database configuration.
 
 6. **Run the local server:**
 
