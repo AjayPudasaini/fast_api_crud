@@ -3,13 +3,13 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/AjayPudasaini/fast_api_crud
     ```
 
 2. **Setup environment:**
 
     ```bash
-    cd src
+    cd fast_api_crud
     ```
 
 3. **Activate environment:**
@@ -40,6 +40,6 @@
 
 ## Usage
 
-After starting the server, you can access the API documentation in your browser at `localhost:8000/docs`. The Swagger UI will allow you to interact with the API endpoints.
+After starting the server, you can access the API documentation in your browser at `localhost:8000/docs/`. The Swagger UI will allow you to interact with the API endpoints.
 
 
